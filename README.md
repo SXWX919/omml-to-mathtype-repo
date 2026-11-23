@@ -1,3 +1,3 @@
 # omml-to-mathtype-repo
-用于直接在word里面全自动生成mathtpye的skill，解决一些无法识别OMML而无法转mathtpye的问题
+用于直接在word里面全自动生成mathtype的skill，解决一些无法识别OMML而无法转mathtpye的问题，注意本机需要有mathtype
 注意在使用时，关闭wps以及word，agent会自动打开
