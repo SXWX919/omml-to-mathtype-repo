@@ -1,0 +1,2 @@
+# omml-to-mathtype-repo
+用于直接在word里面全自动生成mathtpye的skill，解决一些无法识别OMML而无法转mathtpye的问题
